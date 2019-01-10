@@ -1,0 +1,6 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">n6N1UVULCQtrHs4YDmW6uNik5gKgSyWTST-G4</string>
+    <string name="app_name">MoMovies</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true">ALWAYS_SEND</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true">ALWAYS_SEND</string>
+</resources>
